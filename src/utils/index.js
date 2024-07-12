@@ -224,7 +224,7 @@ export const AccordionContent = [
   {
     id: 1,
     title: "Quand-est-ce que l'évènement aura lieu ?",
-    description: "L'évènement aura lieu le 22 juin 2024.",
+    description: "L'évènement aura lieu le 20 juillet 2024.",
   },
   {
     id: 2,

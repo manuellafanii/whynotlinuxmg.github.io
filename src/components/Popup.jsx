@@ -86,7 +86,7 @@ const Popup = () => {
             <h4 className="font-DMMono text-white text-[16px] md:text-[20px] text-center ">
               WNL 20 S'inscrire
             </h4>
-            <h2 className="text-white font-kontes text-center mt-3 mb-2 md:mt-3 text-[32px] md:text-[58px]">
+            <h2 className="text-white font-kontes text-center mt-2 mb-2 md:mt-3 text-[32px] md:text-[58px]">
               Inscrivez- <span className="text-yellow">vous</span>
             </h2>
           </div>
@@ -136,7 +136,7 @@ const Popup = () => {
                 />
               </div>
 
-              <div className="mb-3">
+              <div className="mb-2">
                 <div className="flex items-center">
                   <svg
                     width="18"
@@ -170,7 +170,7 @@ const Popup = () => {
                 />
               </div>
 
-              <div className="mb-3">
+              <div className="mb-2">
                 <div className="flex items-center">
                   <svg
                     width="18"
@@ -227,7 +227,7 @@ const Popup = () => {
                 </div>
               </div>
 
-              <div className="mb-3">
+              <div className="mb-2">
                 <div className="flex items-center">
                   <svg
                     width="18"
@@ -261,7 +261,7 @@ const Popup = () => {
                   </label>
                 </div>
 
-                <div className="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div className="mt-2 grid grid-cols-2 md:grid-cols-3 gap-4">
                   <div
                     className={`border ${
                       isChecked ? "border-yellow" : "border-raven"
@@ -344,7 +344,7 @@ const Popup = () => {
                 </div>
               </div>
 
-              <div className="flex items-center justify-center pt-3">
+              <div className="flex items-center justify-center pt-1">
                 <button
                   type="submit"
                   className="font-DMMono bg-white focus:ring-4 focus:outline-none focus:ring-[#050708]/50 font-medium rounded-md text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-[#050708]/50 dark:hover:bg-[#050708]/30 me-2 mb-2"
